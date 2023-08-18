@@ -1,0 +1,25 @@
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    margin-top: 60px;
+    width: 500px;
+    height: auto;
+}
+.bio{
+    margin-top: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.bio li{
+    margin-bottom: 40px;
+    color: aqua;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+.bioborder{
+    
+}
